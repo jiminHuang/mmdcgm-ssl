@@ -38,6 +38,5 @@ nosetests.xml
 .DS_Store
 *.log
 .eggs/
-data/train/
-data/test/
 model/
+data/*
